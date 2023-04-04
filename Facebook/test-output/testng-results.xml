@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T15:03:42 IST" name="RegressionSuite" finished-at="2023-04-04T15:05:51 IST" duration-ms="129159">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T15:03:42 IST" name="ChromeTest" finished-at="2023-04-04T15:04:03 IST" duration-ms="20557">
+      <class name="Testpack.VerifyToDesktop">
+        <test-method is-config="true" signature="Browserlunch(java.lang.String)[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:42 IST" name="Browserlunch" finished-at="2023-04-04T15:03:44 IST" duration-ms="1734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlunch -->
+        <test-method is-config="true" signature="POMObject()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:45 IST" name="POMObject" finished-at="2023-04-04T15:03:45 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObject -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:45 IST" name="OpenToFeatures" finished-at="2023-04-04T15:03:56 IST" duration-ms="10882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="VerifyToDesktopTab()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:56 IST" name="VerifyToDesktopTab" finished-at="2023-04-04T15:03:59 IST" duration-ms="3024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyToDesktopTab -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:59 IST" name="LogOutApplication" finished-at="2023-04-04T15:03:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:03:59 IST" name="OpenToFeatures" finished-at="2023-04-04T15:04:02 IST" duration-ms="2932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="verifyTofeatures()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:04:02 IST" name="verifyTofeatures" finished-at="2023-04-04T15:04:02 IST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTofeatures -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:04:02 IST" name="LogOutApplication" finished-at="2023-04-04T15:04:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:04:02 IST" name="ClearObject" finished-at="2023-04-04T15:04:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testpack.VerifyToDesktop@53ce1329]" started-at="2023-04-04T15:04:02 IST" name="closeBrowser" finished-at="2023-04-04T15:04:02 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testpack.VerifyToDesktop -->
+      <class name="Testpack.VerifyToFeatures">
+        <test-method is-config="true" signature="Browserlunch(java.lang.String)[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:44 IST" name="Browserlunch" finished-at="2023-04-04T15:03:45 IST" duration-ms="870" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlunch -->
+        <test-method is-config="true" signature="POMObject()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:45 IST" name="POMObject" finished-at="2023-04-04T15:03:45 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObject -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:45 IST" name="OpenToFeatures" finished-at="2023-04-04T15:03:55 IST" duration-ms="9872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="VerifyToDesktopTab()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:55 IST" name="VerifyToDesktopTab" finished-at="2023-04-04T15:03:58 IST" duration-ms="3050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyToDesktopTab -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:58 IST" name="LogOutApplication" finished-at="2023-04-04T15:03:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:03:58 IST" name="OpenToFeatures" finished-at="2023-04-04T15:04:00 IST" duration-ms="2780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="verifyTofeatures()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:04:00 IST" name="verifyTofeatures" finished-at="2023-04-04T15:04:01 IST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTofeatures -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:04:01 IST" name="LogOutApplication" finished-at="2023-04-04T15:04:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:04:01 IST" name="ClearObject" finished-at="2023-04-04T15:04:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testpack.VerifyToFeatures@3ee37e5a]" started-at="2023-04-04T15:04:02 IST" name="closeBrowser" finished-at="2023-04-04T15:04:03 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testpack.VerifyToFeatures -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2023-04-04T15:04:03 IST" name="MsedgeTest" finished-at="2023-04-04T15:05:51 IST" duration-ms="108516">
+      <class name="Testpack.VerifyToDesktop">
+        <test-method is-config="true" signature="Browserlunch(java.lang.String)[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:03 IST" name="Browserlunch" finished-at="2023-04-04T15:04:04 IST" duration-ms="1287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Msedge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlunch -->
+        <test-method is-config="true" signature="POMObject()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:07 IST" name="POMObject" finished-at="2023-04-04T15:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObject -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:07 IST" name="OpenToFeatures" finished-at="2023-04-04T15:04:18 IST" duration-ms="11087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="VerifyToDesktopTab()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:18 IST" name="VerifyToDesktopTab" finished-at="2023-04-04T15:04:43 IST" duration-ms="25306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyToDesktopTab -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:43 IST" name="LogOutApplication" finished-at="2023-04-04T15:04:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:04:43 IST" name="OpenToFeatures" finished-at="2023-04-04T15:05:51 IST" duration-ms="67888" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=111.0.1661.54)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-4GHHF3C6', ip: '192.168.193.238', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.54, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56341}, msedge: {msedgedriverVersion: 111.0.1661.54 (9e410ec23a36..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac0bc1c57ebe94f4b2e0a86c0cd6d175
+*** Element info: {Using=xpath, value=//a[text()='Features']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=111.0.1661.54)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-4GHHF3C6', ip: '192.168.193.238', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.54, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56341}, msedge: {msedgedriverVersion: 111.0.1661.54 (9e410ec23a36..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac0bc1c57ebe94f4b2e0a86c0cd6d175
+*** Element info: {Using=xpath, value=//a[text()='Features']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at facebookpage.Massengerpage.clickOnFeatures(Massengerpage.java:32)
+at Testpack.VerifyToDesktop.OpenToFeatures(VerifyToDesktop.java:68)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="verifyTofeatures()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:05:51 IST" name="verifyTofeatures" finished-at="2023-04-04T15:05:51 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=111.0.1661.54)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-4GHHF3C6', ip: '192.168.193.238', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.54, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56341}, msedge: {msedgedriverVersion: 111.0.1661.54 (9e410ec23a36..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac0bc1c57ebe94f4b2e0a86c0cd6d175
+*** Element info: {Using=xpath, value=//a[text()='Features']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=111.0.1661.54)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-4GHHF3C6', ip: '192.168.193.238', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.54, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:56341}, msedge: {msedgedriverVersion: 111.0.1661.54 (9e410ec23a36..., userDataDir: C:\Users\hp\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ac0bc1c57ebe94f4b2e0a86c0cd6d175
+*** Element info: {Using=xpath, value=//a[text()='Features']}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at facebookpage.Massengerpage.clickOnFeatures(Massengerpage.java:32)
+at Testpack.VerifyToDesktop.OpenToFeatures(VerifyToDesktop.java:68)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTofeatures -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:05:51 IST" name="LogOutApplication" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1680600951737" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:05:51 IST" name="ClearObject" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1680600951739" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testpack.VerifyToDesktop@5d534f5d]" started-at="2023-04-04T15:05:51 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1680600951741" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testpack.VerifyToDesktop -->
+      <class name="Testpack.VerifyToFeatures">
+        <test-method is-config="true" signature="Browserlunch(java.lang.String)[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:04 IST" name="Browserlunch" finished-at="2023-04-04T15:04:07 IST" duration-ms="2921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Msedge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlunch -->
+        <test-method is-config="true" signature="POMObject()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:07 IST" name="POMObject" finished-at="2023-04-04T15:04:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POMObject -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:07 IST" name="OpenToFeatures" finished-at="2023-04-04T15:04:18 IST" duration-ms="10935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="VerifyToDesktopTab()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:18 IST" name="VerifyToDesktopTab" finished-at="2023-04-04T15:04:32 IST" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyToDesktopTab -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:32 IST" name="LogOutApplication" finished-at="2023-04-04T15:04:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="OpenToFeatures()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:04:32 IST" name="OpenToFeatures" finished-at="2023-04-04T15:05:09 IST" duration-ms="37553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenToFeatures -->
+        <test-method signature="verifyTofeatures()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:05:09 IST" name="verifyTofeatures" finished-at="2023-04-04T15:05:10 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTofeatures -->
+        <test-method is-config="true" signature="LogOutApplication()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:05:10 IST" name="LogOutApplication" finished-at="2023-04-04T15:05:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutApplication -->
+        <test-method is-config="true" signature="ClearObject()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:05:10 IST" name="ClearObject" finished-at="2023-04-04T15:05:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearObject -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testpack.VerifyToFeatures@130c12b7]" started-at="2023-04-04T15:05:51 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1680600951743" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testpack.VerifyToFeatures -->
+    </test> <!-- MsedgeTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

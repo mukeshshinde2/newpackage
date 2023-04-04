@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="classes" name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="2" parallel="classes" name="MsedgeTest(failed)">
+    <parameter name="browser" value="Msedge"/>
+    <classes>
+      <class name="Testpack.VerifyToDesktop">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="LogOutApplication"/>
+          <include name="verifyTofeatures"/>
+          <include name="POMObject"/>
+          <include name="ClearObject"/>
+          <include name="OpenToFeatures"/>
+          <include name="Browserlunch"/>
+        </methods>
+      </class> <!-- Testpack.VerifyToDesktop -->
+    </classes>
+  </test> <!-- MsedgeTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
