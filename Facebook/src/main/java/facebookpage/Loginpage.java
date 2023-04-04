@@ -30,34 +30,34 @@ public class Loginpage {
 	
 	// Action
 	
-	public void sendusername()
-	{
-		username.sendKeys("mukesh");
-	}
-	
-	public void sendpassword()
-	{
-		password.sendKeys("12345");
-	}
-	
-	public void loginbutton()
-	{
-		login.click();
-	}
-	
-	public void massengerlink()
-	{
-		massengerlink.click();
-	}
+//	public void sendusername()
+//	{
+//		username.sendKeys("mukesh");
+//	}
+//	
+//	public void sendpassword()
+//	{
+//		password.sendKeys("12345");
+//	}
+//	
+//	public void loginbutton()
+//	{
+//		login.click();
+//	}
+//	
+//	public void massengerlink()
+//	{
+//		massengerlink.click();
+//	}
 	
 	// or action of group
 	
-//	public void loginApplication()
-//	{
-//		username.sendKeys("mukesh");
-//		password.sendKeys("12345");
-//		login.click();
-//		massengerlink.click();
-//	}
-//	
+	public void loginApplication()
+	{
+		username.sendKeys("mukesh");
+		password.sendKeys("12345");
+		login.click();
+		massengerlink.click();
+	}
+	
 }
